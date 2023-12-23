@@ -8,6 +8,7 @@
 ## ntfy.sh -- https://github.com/binwiederhier/ntfy
 
 ## How to run:
+## Open PowerShell Core (version 7.x or greater)
 ## ./handbrake2ntfy.ps1 %arg1 %arg2
 ## %arg1 = FileName
 ## %arg2 = Topic (optional, default is "mytopic")
