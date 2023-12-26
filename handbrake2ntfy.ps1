@@ -7,6 +7,9 @@
 ## Handbrake -- https://github.com/HandBrake
 ## ntfy.sh -- https://github.com/binwiederhier/ntfy
 
+## TODO
+## add arg%3 for allow the specification of a custom ntfy server
+
 ## How to run:
 ## Open PowerShell Core (version 7.x or greater)
 ## ./handbrake2ntfy.ps1 %arg1 %arg2
